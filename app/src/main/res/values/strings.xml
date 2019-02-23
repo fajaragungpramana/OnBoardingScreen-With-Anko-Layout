@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- OnBoarding -->
+    <array name="on_boarding_images">
+        <item>@drawable/stock</item>
+        <item>@drawable/debt</item>
+        <item>@drawable/profit</item>
+        <item>@drawable/loss</item>
+    </array>
+
+    <string-array name="on_boarding_titles">
+        <item>Stok Gudang</item>
+        <item>Orang Berhutang</item>
+        <item>Keuntunganmu</item>
+        <item>Kerugianmu</item>
+    </string-array>
+
+    <string-array name="on_boarding_subtitles">
+        <item>Kemudahan mengelola data stok barang daganganmu untuk di jual ke pasar</item>
+        <item>Membantu mencatat semua orang yang berhutang padamu di pasar</item>
+        <item>Membantumu menampilkan hasil pendapatanmu dari berdagang di pasar tanpa perlu menghitung</item>
+        <item>Membantumu memprediksi kerugian yang akan terjadi saat kamu berdagang di pasar</item>
+    </string-array>
+
+    <string name="app_name">Tutorial</string>
+    <string name="lewati">Lewati</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="memulai">Memulai</string>
+    <string name="hello_activity_loading">Hello Activity Loading</string>
+
+</resources>

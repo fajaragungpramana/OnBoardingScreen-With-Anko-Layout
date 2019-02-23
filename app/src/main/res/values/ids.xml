@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="vp_page" type="id"/>
+    <item name="tv_skip" type="id"/>
+    <item name="btn_continue" type="id"/>
+    <item name="btn_get_started" type="id"/>
+    <item name="tv_title" type="id"/>
+    <item name="tv_subtitle" type="id"/>
+    <item name="iv_content_image" type="id"/>
+</resources>
